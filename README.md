@@ -18,5 +18,5 @@ A QR code component built for Front-End Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hannesivask/qr-comoponent-FEM)
-- Live Site URL: [Add live site URL here](https://qr-component-fem-hannes.netlify.app/)
+- Solution URL: [https://github.com/hannesivask/qr-comoponent-FEM](https://github.com/hannesivask/qr-comoponent-FEM)
+- Live Site URL: [https://qr-component-fem-hannes.netlify.app/](https://qr-component-fem-hannes.netlify.app/)
